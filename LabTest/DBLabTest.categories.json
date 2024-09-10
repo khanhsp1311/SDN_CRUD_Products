@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6525ef40cf96890e7ad4e116"
+  },
+  "id": 1,
+  "name": "smartphones"
+},
+{
+  "_id": {
+    "$oid": "6525ef40cf96890e7ad4e117"
+  },
+  "id": 2,
+  "name": "home-decoration"
+},
+{
+  "_id": {
+    "$oid": "6525ef40cf96890e7ad4e118"
+  },
+  "id": 3,
+  "name": "laptops"
+},
+{
+  "_id": {
+    "$oid": "6525ef40cf96890e7ad4e119"
+  },
+  "id": 4,
+  "name": "skincare"
+}]

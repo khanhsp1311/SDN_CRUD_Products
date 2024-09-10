@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6525ef55cf96890e7ad4e11c"
+  },
+  "id": 1,
+  "name": "Apple"
+},
+{
+  "_id": {
+    "$oid": "6525ef55cf96890e7ad4e11d"
+  },
+  "id": 2,
+  "name": "Samsung"
+},
+{
+  "_id": {
+    "$oid": "6525ef55cf96890e7ad4e11e"
+  },
+  "id": 3,
+  "name": "OPPO"
+},
+{
+  "_id": {
+    "$oid": "6525ef55cf96890e7ad4e11f"
+  },
+  "id": 4,
+  "name": "Huawei"
+},
+{
+  "_id": {
+    "$oid": "6525ef55cf96890e7ad4e120"
+  },
+  "id": 5,
+  "name": "Microsoft Surface"
+},
+{
+  "_id": {
+    "$oid": "6525ef55cf96890e7ad4e121"
+  },
+  "id": 6,
+  "name": "Infinix"
+}]
